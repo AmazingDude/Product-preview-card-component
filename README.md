@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://illustrious-tiramisu-6f7e8d.netlify.app/)
+- Live Site URL:(https://illustrious-tiramisu-6f7e8d.netlify.app/)
 
 ## My process
 
@@ -56,5 +56,5 @@ I want to continue focusing on responsive design and media queries.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AmazingDude)
+- Frontend Mentor - [@AmazingDude](https://www.frontendmentor.io/profile/AmazingDude)
 - Twitter - [@AmazingDudeFN](https://www.twitter.com/AmazingDudeFN)
